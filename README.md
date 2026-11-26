@@ -4,10 +4,12 @@
 
 ## 起動
 
-[足関節モーメントラボを起動する](https://ankle-moment-lab-k.earlyjewel8.chatgpt.site)
+[足関節モーメントラボを起動する](https://keizoliberalartslab.github.io/P004_AnkleMoment/)
 
-本人用の非公開版です。所有者のChatGPTアカウントでログインして利用します。
-オフラインでは `dist/index.html` をブラウザで開いてください。
+配布・共有用URL：https://keizoliberalartslab.github.io/P004_AnkleMoment/
+
+インストールやログインは不要です。このURLを共有してください。
+ダウンロードして使う場合は `dist/index.html` をブラウザで開いてください。
 
 ## 操作
 
