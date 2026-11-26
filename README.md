@@ -4,9 +4,9 @@
 
 ## 起動
 
-[足関節モーメントラボを起動する](https://keizoliberalartslab.github.io/P004_AnkleMoment/)
+[足関節モーメントラボを起動する](https://keizoliberalartslab.github.io/P004_AnkleMoment/dist/)
 
-配布・共有用URL：https://keizoliberalartslab.github.io/P004_AnkleMoment/
+配布・共有用URL：https://keizoliberalartslab.github.io/P004_AnkleMoment/dist/
 
 インストールやログインは不要です。このURLを共有してください。
 ダウンロードして使う場合は `dist/index.html` をブラウザで開いてください。
